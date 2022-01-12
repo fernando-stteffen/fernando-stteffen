@@ -2,8 +2,7 @@
 ### My name is Fernando Stteffen
 
 - 🔭 I’m currently working on back-end
-- 🌱 I'm learning thread management Node Internals
-specifically 
+- 🌱 I'm learning Nodejs Internals ( threads management specifically )
 - 📚 I'm reading now [FULLSTACK NODE.js](https://www.amazon.com.br/Fullstack-Node-js-Complete-Building-Production-ebook/dp/B086G7F1GX) by David Guttman
 <br />
 
