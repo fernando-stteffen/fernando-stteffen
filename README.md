@@ -1,22 +1,29 @@
+## ✨ Welcome visitor! ✨
+### My Name is Fernando Stteffen!
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-stteffen&theme=react&layout=defaul&count_private=true" />
+- 🔭 I’m currently working on back-end
+- 🌱 I'm learning thread management Node Internals
+specifically 
+- 📚 I'm reading now [FULLSTACK NODE.js](https://www.amazon.com.br/Fullstack-Node-js-Complete-Building-Production-ebook/dp/B086G7F1GX) by David Guttman
 
+---
+### ⚔ Using weapons ⚔
+<div style="display: inline_block;">
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+</div>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernando-stteffen&theme=react&count_private=true&show_icons=true" />
-
-
-
-<!--
-**fernando-stteffen/fernando-stteffen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<div>
+ <a href="https://github.com/fernando-stteffen/fernando-stteffen">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-stteffen&theme=algolia&layout=compact&count_private=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-stteffen&theme=algolia&count_private=true&show_icons=true" />
+</div>
+<div>
+ 
+</div>
