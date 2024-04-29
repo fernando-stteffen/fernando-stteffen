@@ -15,6 +15,7 @@
  <img align="center" height="30" width="40" alt="Skill php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
  <img align="center" height="30" width="40" alt="Skill react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" height="30" width="40" alt="Skill debian based os's" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+ <img align="center" height="30" width="40" alt="Skill rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" />
 </div>
 <br />
 
