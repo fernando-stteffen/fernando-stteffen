@@ -2,7 +2,7 @@
 ### My name is Fernando Stteffen
 
 - 🔭 I’m currently working on back-end
-- 🌱 I'm learning Nodejs typeORM
+- 🌱 I'm learning Rust!
 - 📚 I'm reading now [Learning Rust in a month of lunchs](https://www.amazon.com.br/Learn-Month-Lunches-David-MacLeod/dp/1633438236) by Dave MacLeod 
 <br />
 
